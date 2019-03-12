@@ -10,6 +10,12 @@ Example JSON schmea
   "category":"Travel Provider",
   "region":"Town of 1770/ Agnes Water",
   "lng":-24.172069,
-  "lat":151.886044
+  "lat":151.886044,
+  "open": {
+    "Monday": {
+      "open": 7:00,
+      "close": 19:00
+    }
+  }
 }
 ```
