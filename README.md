@@ -1,2 +1,2 @@
-# merchant_api
+# Merchant Api
 JSON object of merchants
