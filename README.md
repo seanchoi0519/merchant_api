@@ -1,4 +1,4 @@
-# Travel By Bit Merchant Api
+# TravelbyBit Merchant Api
 JSON object of merchants
 
 Example JSON schmea
