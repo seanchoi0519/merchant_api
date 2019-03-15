@@ -11,6 +11,7 @@ Example JSON schmea
   "region":"Town of 1770/ Agnes Water",
   "lng":-24.172069,
   "lat":151.886044,
+  "coins": ['btc', 'bch']
   "open": {
     "Monday": {
       "open": 7:00,
