@@ -1,5 +1,5 @@
 # TravelbyBit Merchant Api
-JSON object of merchants
+JSON object of merchants.  To add or modify merchants, please make a pull request!
 
 Example JSON schema
 
