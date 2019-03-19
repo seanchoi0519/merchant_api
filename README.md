@@ -9,7 +9,7 @@ Example JSON schema
   "location": "1770 Marina, Captain Cook Drive, Town of 1770, Seventeen Seventy QLD 4677",
   "category": "Service",
   "region": "Town of 1770 Agnes Water",
-  "latitude": "-24.172069",
-  "longitude": "151.886044"
+  "latitude": -24.172069,
+  "longitude": 151.886044
 }
 ```
