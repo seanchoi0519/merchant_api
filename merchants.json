@@ -681,7 +681,9 @@
     "merchant": "Royal Black Private Transport",
     "location": "Brisbane",
     "category": "Service",
-    "region": "Brisbane"
+    "region": "Brisbane",
+    "latitude": null,
+    "longitude": null
   },
   {
     "merchant": "S+T Fire & Food （Sydney）",
@@ -727,7 +729,9 @@
     "merchant": "Seventeen70 botanicals",
     "location": "https://seventeen70botanicals.com/",
     "category": "Personal service",
-    "region": "Town of 1770 Agnes Water"
+    "region": "Town of 1770 Agnes Water",
+    "latitude": null,
+    "longitude": null
   },
   {
     "merchant": "Sky Dance",
@@ -741,7 +745,9 @@
     "merchant": "Social Advertising Australia",
     "location": "http://www.soad.com.au/",
     "category": "Service",
-    "region": "Online"
+    "region": "Online",
+    "latitude": null,
+    "longitude": null
   },
   {
     "merchant": "Southern Cross Backpackers",
@@ -827,7 +833,9 @@
     "merchant": "The Pluralist",
     "location": "http://www.thepluralist.com.au/",
     "category": "Retail",
-    "region": "Brisbane/online"
+    "region": "Brisbane/online",
+    "latitude": null,
+    "longitude": null
   },
   {
     "merchant": "The Roll Shop",
